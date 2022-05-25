@@ -1,0 +1,12 @@
+{
+  "name": "odetofood",
+  "version": "1.0.0",
+  "dependencies": {
+    "datatables.net-bs4": "^1.12.1",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "@types/node": "^17.0.35"
+  }
+}
